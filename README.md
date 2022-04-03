@@ -1,0 +1,2 @@
+# fmc-profile-card-component
+Another Frontend Mentor Newbie Challenge involving HTML and CSS. Encountered difficulties in this challenge owing to the background which involved placing two large circles at specific points. The main difficulty arose from ensuring that the circles remained in the same position relative to the profile card irrespective of screen size. Whilst the circles look fine when viewed on a full-screen desktop, the images shift when the size of the screen is decreased significantly. I will have to revisit this challenge at some point.
